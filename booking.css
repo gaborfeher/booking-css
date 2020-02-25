@@ -2,7 +2,7 @@ body {
     background-color: white;
 }
 
-.fc-view, .fc-toolbar * {
+.fc-view, .fc-toolbar *, .fc-view > table {
   color: #3e4147;
 }
 
